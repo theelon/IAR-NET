@@ -5,7 +5,7 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 
 ## Paper
 - **Title**: IAR-Net: A Human–Object Context Guided Action Recognition Network for Industrial Environment Monitoring
-- **Authors**: [Naval Kishore Mehta] , [Shyam Sunder Prasad] , [Sumeet Saurav] , [Ravi Saini] , and [Sanjay Singh]
+- **Authors**: Naval Kishore Mehta, Shyam Sunder Prasad, Sumeet Saurav, Ravi Saini, and Sanjay Singh
 
 ## Features
 - Human-object interaction modeling for improved action recognition.
