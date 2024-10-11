@@ -28,7 +28,7 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 ## Evaluation
 python evaluate.py --model checkpoint.pth --dataset test
 
-
+If you use this code or the LAMIS dataset, please cite our paper:
 @article{iar-net2024,
   title={IAR-Net: A Human–Object Context Guided Action Recognition Network for Industrial Environment Monitoring},
   author={Your Name and Co-authors},
