@@ -21,7 +21,7 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/theelon/IAR-Net.git
+   git clone https://github.com/theelon/IAR-NET.git
    cd IAR-Net
 2. pip install -r requirements.txt
 
