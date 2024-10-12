@@ -29,7 +29,9 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 python test.py  
 
 ## Data and Model Requests
-To request access to the **LAMIS dataset** or the **IAR-Net model**, please fill out [this form]([https://forms.gle/YourGoogleFormLink](https://forms.gle/fNqfUNUCjhGhsq1q9)) with your official email address. You will receive access instructions shortly.
+## Data and Model Requests
+To request access to the **LAMIS dataset** or the **IAR-Net model**, please fill out [(https://forms.gle/YourGoogleFormLink)](https://forms.gle/rSMEkus3WkMQBEJ8A) with your official email address. You will receive access instructions shortly.
+
 
 
 If you use this code or the LAMIS dataset, please cite our paper:
