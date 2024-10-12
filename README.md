@@ -14,9 +14,9 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 
 ## Requirements
 - Python 3.4
-- PyTorch >= 1.5.0
+- PyTorch >= 1.11.0
 - CUDA >= 10.2
-- Other dependencies in `requirements.txt`
+- Other dependencies in `Readme_code.txt`
 
 ## Installation
 1. Clone the repository:
@@ -26,7 +26,7 @@ IAR-Net is a Human–Object Context Guided Action Recognition Network designed f
 2. pip install -r requirements.txt
 
 ## Evaluation
-python evaluate.py --model checkpoint.pth --dataset test
+python test.py  
 
 If you use this code or the LAMIS dataset, please cite our paper:
 @ARTICLE{10517873,
